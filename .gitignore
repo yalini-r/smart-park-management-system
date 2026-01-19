@@ -1,0 +1,28 @@
+# Compiled files
+*.class
+*.log
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build folders
+build/
+target/
+out/
+
+# Server (Tomcat)
+.metadata/
+Servers/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
