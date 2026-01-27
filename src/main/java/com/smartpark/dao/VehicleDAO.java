@@ -629,6 +629,20 @@ public class VehicleDAO {
 
 
     
+    public int getVehiclesInsideCount() throws SQLException {
+        int count = 0;
+        String sql = "SELECT COUNT(*) FROM booking WHERE status = 'ACTIVE'";
+
+        try (Connection con = GetConnection.getConnection();
+             PreparedStatement ps = con.prepareStatement(sql);
+             ResultSet rs = ps.executeQuery()) {
+
+            if (rs.next()) {
+                count = rs.getInt(1);
+            }
+        }
+        return count;
+    }
 
 
 
