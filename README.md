@@ -43,3 +43,12 @@ Secure database integration using JDBC and MySQL
 MVC architecture for better code organization and maintainability
 
 
+![login](D:\java project\SmartPark\scrnshots\user-view\login.png)
+![userDashBoard](D:\java project\SmartPark\scrnshots\user-view\userDashBoard.png)
+![profile](D:\java project\SmartPark\scrnshots\user-view\profile.png)
+![slotBooking](D:\java project\SmartPark\scrnshots\user-view\slot-booking.png)
+![bookingHistory](D:\java project\SmartPark\scrnshots\user-view\booking-hitory.png)
+
+
+
+
