@@ -28,14 +28,12 @@ The system supports role-based authentication, real-time slot status updates, bo
 - MVC architecture for better maintainability
 
 ---
-
 ## Screenshots
 
-### profile
+### Authentication & Profile
 ![Register](scrnshots/profile/register.png)
 ![Login](scrnshots/profile/login.png)
 ![Profile](scrnshots/profile/profile.png)
-
 
 ### User View
 ![User Dashboard](scrnshots/user-view/userDashboard.png)
@@ -49,3 +47,4 @@ The system supports role-based authentication, real-time slot status updates, bo
 ![Vehicle Entry](scrnshots/admin-view/check-vehicle-entry.png)
 ![Vehicle Exit](scrnshots/admin-view/vehicle-exit.png)
 ![Revenue Report](scrnshots/admin-view/revenue-report.png)
+
