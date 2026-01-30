@@ -42,7 +42,8 @@ The system supports role-based authentication, real-time slot status updates, bo
 
 ### Admin View
 ![Admin Dashboard](scrnshots/admin-view/adminDashboard.png)
-![Manage Slots](scrnshots/admin-view/slot-manage.png)
+![Manage Slots](scrnshots/admin-view/slot-management.png)
+![Manage Slots](scrnshots/admin-view/user-management.png)
 ![View User Bookings](scrnshots/admin-view/view-user-bookings.png)
 ![Vehicle Entry](scrnshots/admin-view/check-vehicle-entry.png)
 ![Vehicle Exit](scrnshots/admin-view/vehicle-exit.png)
