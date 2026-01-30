@@ -31,10 +31,14 @@ The system supports role-based authentication, real-time slot status updates, bo
 
 ## Screenshots
 
+### profile
+![Register](scrnshots/profile/register.png)
+![Login](scrnshots/profile/login.png)
+![Profile](scrnshots/profile/profile.png)
+
+
 ### User View
-![Login](scrnshots/user-view/login.png)
 ![User Dashboard](scrnshots/user-view/userDashboard.png)
-![Profile](scrnshots/user-view/profile.png)
 ![Slot Booking](scrnshots/user-view/slot-booking.png)
 ![Booking History](scrnshots/user-view/booking-history.png)
 
